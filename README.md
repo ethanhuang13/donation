@@ -32,11 +32,6 @@ TAb8mqBs6xdYjoek7zunCmXmBwutZoTLH1
 
 其他常見幣別可以透過 [Coinbase](https://commerce.coinbase.com/checkout/383d5737-5043-4e21-bbec-c44fc81f79c9) Commerce 捐款。
 
-<div>
-  <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
-  </script>
-</div>
-
 ---
 
 ## 其他 
